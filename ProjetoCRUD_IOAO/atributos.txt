@@ -1,0 +1,12 @@
+id auto increment
+nome string 30
+descricao string 30
+marca String 15
+modelo String 15
+SN String 15
+qtd int
+categoria string 10
+cor string 10
+valor varejo double
+valor atacado double
+
